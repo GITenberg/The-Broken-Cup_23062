@@ -1,0 +1,36 @@
+_repo: The-Broken-Cup_23062
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Godwin, Parke
+    birthdate: 1816
+    deathdate: 1904
+    gutenberg_agent_id: '35804'
+    url: http://www.gutenberg.org/2009/agents/35804
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zschokke, Heinrich
+    alias: Zschokke, Johann Heinrich Daniel
+    birthdate: 1771
+    deathdate: 1848
+    gutenberg_agent_id: '5011'
+    url: http://www.gutenberg.org/2009/agents/5011
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
+description: ''
+gutenberg_issued: '2007-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Short stories'
+- !lcc 'PT'
+title: The Broken Cup
+url: http://www.gutenberg.org/ebooks/23062
